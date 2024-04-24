@@ -1,0 +1,22 @@
+{
+  "name": "aka29-to-do-app",
+  "version": "1.0.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "aka29-to-do-app": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Faryal Faisal",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.12.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.19"
+  }
+}
